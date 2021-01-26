@@ -1,0 +1,16 @@
+.swiper-slide{
+   font-size: 12px;
+   padding: 15px;
+   width: 143px;
+   height: 70px;
+    background-color: #ffffff
+}
+.topic {
+    font-weight: bold;
+    font-size: 2.5rem;
+  }
+  
+  .whoami {
+    color: grey;
+    font-weight: 500;
+  }

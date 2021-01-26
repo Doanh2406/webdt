@@ -1,0 +1,21 @@
+.btn-danger {
+  margin: auto;
+}
+.prd {
+  width: 220px;
+  height: 387px;
+}
+.prd:hover {
+  border: 2px solid #f0dddd;
+  /* height: 400px; */
+}
+/*   
+}
+.prd {
+  width: 220px;
+  height: 345px;
+}
+
+.prd:hover + .btn-danger {
+  display: block;
+} */

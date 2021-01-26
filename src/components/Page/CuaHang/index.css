@@ -1,0 +1,75 @@
+.munen {
+    margin-top: 20px;
+    font-size: 14px;
+    margin-left: 93px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.imgm{
+    width:750px;
+    margin-left: 14px;
+}
+.lienHe{
+    margin-top:0px;
+    margin-left: 20px;
+    text-align: center;
+    padding-bottom: 9px;
+}
+
+.lh{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+}
+.center{
+    text-align: center;
+}
+
+.redt{
+    color:red;
+}
+.boldt{
+    font-weight: bold;
+}
+.larget{
+    font-size: 18px;
+}
+.smallt{
+    font-size: 12px;
+}
+.mainch{
+    margin-top:10px;
+}
+.dot {
+    height: 6px;
+    width: 6px;
+    background-color: rgb(248, 0, 0);
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .maind{
+      margin-top: 10px;
+  }
+  .mal{
+    margin-left: 10px;
+  }
+  .diachi{
+      max-width: 600px;
+      padding: 6px 6px 6px 6px;
+      margin-left: 10px;
+      margin-bottom: 30px;
+  }
+  .flex{
+      display: flex;
+      flex-direction: row;
+      
+  }
+  .inputt{
+      width: 586px;
+      margin-top: 10px;
+      
+  }
+  .quest{
+      margin-bottom: 50px;
+  }

@@ -1,0 +1,42 @@
+.container.box-sliding{
+    width: 1200px;
+}
+
+.box-list-menu{
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+    border-radius: 2px;
+}
+.menu-item{
+    color: black;
+    font-size: 16px;
+}
+.fa-angle-right{
+    float: right;
+}
+body{
+    background-color: #F5F8FD;
+}
+.icon_brand{
+    background-image: url("https://cellphones.com.vn/media/icon/full_brand-8.png");
+}
+.box-brand .icon-apple{
+    width: 100%;
+    max-width: 120px;
+    height: 30px;
+    display: inline-block;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-size: 350px;
+}
+.box-brand .icon-apple {
+    width: 100px;
+    background-position: -242px -131px;
+}
+.box-brand ul li{
+    height: 50px;
+    flex: 0 1 calc((100% - 30px)/4);
+    margin-bottom: 10px;
+    border-radius: 4px;
+    background: #fff;
+    
+}

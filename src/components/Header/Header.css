@@ -1,0 +1,72 @@
+.navbar {
+  background-color: #d70018;
+  display: flex;
+  padding: 4px 15px;
+}
+.navbar-brand {
+  color: white;
+}
+.navbar-brand:hover {
+  color: white;
+}
+.form-inline {
+  width: 450px;
+}
+
+.header-search {
+  color: rgb(11, 12, 12);
+  margin: -40px;
+}
+.menu-icon {
+  color: aliceblue;
+  font-size: large;
+}
+.box {
+  width: 110px;
+  height: 40px;
+  display: flex;
+  flex-direction: column;
+  padding-left: 2px;
+  border-radius: 4px;
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.3);
+  color: #fff;
+}
+.texts {
+  color: #fff;
+  text-decoration: none;
+  font-size: 11px;
+}
+.texts:hover {
+  color: #fff;
+  text-decoration: none;
+  font-size: 11px;
+}
+.box-main:hover {
+  color: #fff;
+}
+.box-about {
+  color: #fff;
+}
+.box-about:hover {
+  color: #fff;
+}
+.box-icon {
+  margin: auto;
+}
+.title {
+  text-align: center;
+  font-size: 14px;
+  text-decoration: none;
+}
+nohover:hover {
+  /* here copy default .btn class styles */
+  cursor: default !important;
+  /* or something like that */
+}
+.box-content:hover {
+  color: #fff;
+}
+.title:hover {
+  color: #fff;
+}

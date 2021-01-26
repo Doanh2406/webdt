@@ -1,0 +1,32 @@
+.breadcrumbs {
+    margin-top: 20px;
+    font-size: 14px;
+    margin-left: -30px;
+}
+.Gh{
+    margin-top: 15px;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+.main{
+    margin-top: 170px;
+    margin-left: 430px;
+}
+.cen{
+    margin-top: 10px;
+    text-align: center;
+    
+}
+.link{
+    color: rgb(194, 72, 56);
+    cursor: pointer;
+  
+
+}
+.link:hover{
+    color:red;
+}
+.mainnn{
+    margin-bottom: 180px;
+}
